@@ -1,0 +1,369 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A sermon preach'd at the parish-church of St. Lawrence, London to the natives of Wiltshire, at their yearly feast, November the 12th. 1695. By John Russell, Rector of St. John of Wappin.</title>
+            <author>Russell, John, fl. 1660.</author>
+         </titleStmt>
+         <extent>Approx. 51KB of XML-encoded text transcribed from 17 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B29151</idno><idno type="EEBO-CITATION">99832266</idno>
+  <idno type="VID">207309</idno>
+  <idno type="EEBO-PROQUEST">2240941995</idno>
+  
+            <idno type="STC">Wing R2345</idno>
+            <idno type="PROQUEST">99832266</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99832266e"/>
+            <note>(EEBO-TCP ; phase 2, no. B29151)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 207309)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2057:10)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A sermon preach'd at the parish-church of St. Lawrence, London to the natives of Wiltshire, at their yearly feast, November the 12th. 1695. By John Russell, Rector of St. John of Wappin.</title>
+                  <author>Russell, John, fl. 1660.</author>
+               </titleStmt>
+               <extent>32 p.   </extent>
+               <publicationStmt>
+                  <publisher>printed by J. Wilkins, for R. Mount at the Postern near the Tower, and sold by J. Whitlock near Stationers Hall,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>[1696?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Publication date conjectured by Wing.</note>
+                  <note>Reproduction of the original in the Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="uniform_title">Bible. --  N.T. --  Peter, 1st, IV, 8 --  Commentaries --  Early works to 1800.</term>
+               <term type="topical_term">Sermons, English --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-07 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-11 </date>
+            <label>Olivia Bottum </label>Sampled and proofread </change>
+         <change>
+            <date>2014-11 </date>
+            <label>Olivia Bottum</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:207309:1"/>
+            <p>A SERMON Preach'd at the Parish-Church of St. <hi>Lawrence,</hi> LONDON, To the Natives of WILTSHIRE, At Their <hi>Yearly Feast.</hi> November the 12th. 1695.</p>
+            <p>
+               <hi>By</hi> JOHN RUSSEL, <hi>Rector of St.</hi> John <hi>of</hi> Wappin.</p>
+            <q>
+               <bibl>
+                  <hi>Hom.</hi> Odyss. lib. <hi>9.</hi>
+               </bibl>
+               <l>—<gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>
+               </l>
+               <l>
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>.—</l>
+               <l>Nescio, quâ natale solum dulcedine, cunctos</l>
+               <l>Ducit, &amp; immemores non sinit esse sui. <bibl>
+                     <hi>Ovid. de Ponto.</hi>
+                  </bibl>
+               </l>
+            </q>
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>J. Wilkins,</hi> for <hi>R. Mount</hi> at the Postern near the Tower, and Sold by <hi>J. Whitlock</hi> near Stationers Hall.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:207309:2"/>
+            <pb facs="tcp:207309:2"/>
+            <head>To all those <hi>Honourable</hi> and <hi>Worthy Persons</hi> Natives of the County of <hi>Wilts,</hi> who now Inhabit in and about the City of <hi>London,</hi> more particularly to
+<list>
+                  <item>Mr. <hi>Tho. Loving.</hi>
+                  </item>
+                  <item>Mr. <hi>O. Corr.</hi>
+                  </item>
+                  <item>Mr. <hi>Geo. Franklyn.</hi>
+                  </item>
+                  <item>Mr. <hi>John Harris.</hi>
+                  </item>
+                  <item>Mr. <hi>Fran. Jarvis.</hi>
+                  </item>
+                  <item>Mr. <hi>Nat. Jarvis.</hi>
+                  </item>
+                  <item>Mr. <hi>Hen. Hopkins.</hi>
+                  </item>
+                  <item>Mr. <hi>John Noyes.</hi>
+                  </item>
+                  <item>Mr. <hi>Rich. Ellis.</hi>
+                  </item>
+                  <item>Mr. <hi>William Carpenter.</hi>
+                  </item>
+               </list>
+            </head>
+            <head type="sub">Stewards of the <hi>Wiltshire Feast</hi> Kept at <hi>Mer<g ref="char:EOLhyphen"/>chant-Taylors</hi>-Hall, <hi>November,</hi> 12th. 1695.</head>
+            <opener>
+               <salute>SIRS,</salute>
+            </opener>
+            <p>FEasts of <hi>Love</hi> and <hi>Charity,</hi> are near as old as <hi>Christianity</hi> it self, for, in the Primitive Age of our most Holy <hi>Religion,</hi> it was the frequent Pra<g ref="char:EOLhyphen"/>ctice of the Professors of it, to meet together in a <hi>Reli<g ref="char:EOLhyphen"/>gious Assembly;</hi> not only for the Performance of <hi>Publick Worship,</hi> but also, as a Testimony of their mutual <hi>Love</hi> and <hi>Charity,</hi> to Eat and Drink together at a <hi>Common Feast;</hi> to the Furnishing of which, every One brought something, according to his Ability: And then they made also their <hi>Collections</hi> for the <hi>Poor.</hi>
+            </p>
+            <pb facs="tcp:207309:3"/>
+            <p> To this Practice St. <hi>Jude</hi> has a Reference in his Epi<g ref="char:EOLhyphen"/>stle, where complaining of some, who, by their abominable Lives, were a Scandal to the Purity of the Christian Pro<g ref="char:EOLhyphen"/>fession; he says <hi>ver. 12. These are Spots in your Feasts of Charity. i. e.</hi> Blemishes and Scandals to the <hi>Christi<g ref="char:EOLhyphen"/>an Feasts,</hi> which ought to be constituted of Guests of Pu<g ref="char:EOLhyphen"/>rity and Irreproachable Lives. And St. <hi>Paul</hi> has a clearer Relation to this Matter, in his Reproof which he gives the <hi>Corinthians</hi> for their Irreverence, not only at the <hi>Lord's Table,</hi> but also for their Indecency, and Con<g ref="char:EOLhyphen"/>tumely at this <hi>Christian Feast, 1</hi> Epist. <hi>Cor. 11 chap. 21, 22,</hi> and <hi>33, 34 ver.</hi> He there rebukes the Wealthi<g ref="char:EOLhyphen"/>er Christians, for that they had not a due and charitable Regard for the Poor; but even at that <hi>Feast</hi> (whose End was <hi>Charity,</hi> and a Testification that they stood on a Level, in respect of their Allegiance to the Lord Jesus Christ, and the Benefits they equally expected from Him, and so were Fellow-Subjects of One great King, the Lord of All, yet there) they regarded Temporal Riches, Worldly Respects and acted accordingly: And so the Rich who brought in Abundance, Eat and Drank accordingly, and the Poor who brought little, went away Dissatisfied; <hi>So that One was Hungry, Another was Drunken.</hi> This Un<g ref="char:EOLhyphen"/>charitableness and Intemperance, the Apostle Reproves, and Exhorts to a Reformation in the <hi>33,</hi> and <hi>34 ver. Wherefore, my Brethren, when ye come together to Eat, tarry One for Another,</hi> &amp;c.</p>
+            <p>I do acknowledge that at these <hi>Religious Feasts,</hi> they did also receive the <hi>Holy Sacrament</hi> of the <hi>Lord's Sup<g ref="char:EOLhyphen"/>per;</hi> but by reason of the Indecencies and Disorders before mentioned, and the following Persecutions which fell upon the Church, this was discontinued: But however the Just
+<pb facs="tcp:207309:3"/>and Christian Practice of these <hi>Feasts,</hi> neither can, nor ever will be discommended.</p>
+            <p>This I mention, to justify your <hi>Feast,</hi> and to shew that a <hi>Feast</hi> of <hi>Love</hi> and <hi>Charity</hi> (and such I hope yours is) is so far from being contrary to our <hi>Christian Religion,</hi> that its altogether agreeable to it, and concordant with the Practice of the Earliest Professors of our Holy <hi>Faith.</hi>
+            </p>
+            <p>But as Those ran into Irregularities in their <hi>Feasts,</hi> which occasioned their Discontinuance, so may you; and therefore I shall observe, that <hi>Publick Feasts</hi> cannot have more than some of these Four Ends.</p>
+            <p>
+               <hi>First,</hi> (which is the lowest, and most unworthy) <hi>The End of satisfying the sensual Appetite in Eating and Drinking,</hi> &amp;c. But this is such an Indignity to the Place of our Nativity, as well as to the Holiness of our Chri<g ref="char:EOLhyphen"/>stian Profession, that none of us (I hope) can become guilty of so unworthy a Design.</p>
+            <p>
+               <hi>Secondly, The End of Conversing together and En<g ref="char:EOLhyphen"/>larging our Acquaintance, in order to advance our Temporal Interest.</hi> And this (tho' it may, by the Prudence and Sincerity of its Management, be honest enough, yet) if it be not subordinate to Nobler Ends, it's still unworthy of such an Honourable and Christian Concourse. And there<g ref="char:EOLhyphen"/>fore,</p>
+            <p>
+               <hi>Thirdly,</hi> A Third End is, <hi>The Reviving good Neigh<g ref="char:EOLhyphen"/>bourhood, continuance of Country-Love, and mutu<g ref="char:EOLhyphen"/>al Affection;</hi> which we are engag'd to, by our Religion, as we are Christians; and oblig'd to, by our Government, as we are Subjects of the <hi>same</hi> King; and further as we are Natives of the <hi>same</hi> Kingdom; but more, as we are Neighbours of the <hi>same</hi> Country, Born in Bordering Pa<g ref="char:EOLhyphen"/>rishes,
+<pb facs="tcp:207309:4"/>and Breathing the <hi>same</hi> Sweet and Wholsome Air, and partaking of the <hi>same</hi> common Benefits of Nature. And this (tho not the highest, yet) is such a just and Na<g ref="char:EOLhyphen"/>tural End, for the Encouragement of your <hi>Feast,</hi> that every One, that is a Lover of his Religion and Country, and that understands and feels the Obligations of Nature, must needs (agreeable to his Ability) give a suitable Encourage<g ref="char:EOLhyphen"/>ment to its just and regular Observation.</p>
+            <p>Our <hi>Religion</hi> obliges all the Professors of it to Love One Another, to be Kind and Just, Charitable and Good-natur'd One to Another: This is an Obligation which the Author of it, our <hi>Blessed Redeemer,</hi> has laid upon us, and which every One, that will approve himself his Dis<g ref="char:EOLhyphen"/>ciple must Obey <hi>Joh. 13, 34. A New Commandement I give unto you, that ye Love one another.</hi> so <hi>ver. 35.</hi> and <hi>chap. 15.12.</hi> And the same Apostle in his <hi>Epistles,</hi> inculcates nothing so frequent as the Duty of <hi>Love, Lit<g ref="char:EOLhyphen"/>tle Children Love one another.</hi> so St. <hi>Paul 1 Thes. 4.9.</hi>
+            </p>
+            <p>But as Christianity is a <hi>Religious</hi> Obligation to the sincere performance of this Duty, so the Regard that we Owe to our Country, and the Government, which protects us is a natural One; And this is so strong that a Man must put off Natural Affection, before he can break it. It's almost as Antient, and altogether as Wide and Uni<g ref="char:EOLhyphen"/>versal as the World; for the Blackest <hi>Negro,</hi> the Tawni<g ref="char:EOLhyphen"/>est <hi>Indian,</hi> (yea the Sottish <hi>Soldanians</hi>) are all possest with a most Warm Passion to their Native Country: To repeat Instances of this Assertion, and it's powerful Effects, would be to Transcribe a great part of all the Histories of the World; and to go about to prove it to be Just and Honest, would be to spend time in Arguing that which no
+<pb facs="tcp:207309:4"/>Body contradicts. But as <hi>We</hi> who are <hi>English</hi> Men, Love all <hi>English</hi> Men, with a Country Affection, as we are Subjects of the <hi>same</hi> Prince, and live under the Secu<g ref="char:EOLhyphen"/>rity of the <hi>same</hi> Laws; Yet the Place of our Birth, and the Vicinity of our Neighbouring Towns and Parishes, com<g ref="char:EOLhyphen"/>mands the choicer and warmer part of our National Love; and that this honest <hi>Passion</hi> may be increas'd and duly cherish'd, no means more proper than a <hi>Christian Feast.</hi>
+            </p>
+            <p>
+               <hi>Fourthly,</hi> But the most Noble End, is <hi>To meet toge<g ref="char:EOLhyphen"/>ther to do Good, by Relieving the Necessitous, help<g ref="char:EOLhyphen"/>ing the Indigent, and turning our Eyes on the state of the Poor; To make Collections according to our Ability, for the Support of our Poor Country-men:</hi> This is truly to constitute a <hi>Feast</hi> of <hi>Love</hi> and <hi>Charity, When we deal our Bread to the Hungry, and cover the Naked, and hide not our selves from our own Flesh:</hi> This as it's the most excellent End, so it ought to be the <hi>Prin<g ref="char:EOLhyphen"/>cipal</hi> in Design, of all those that come to those <hi>Publick En<g ref="char:EOLhyphen"/>tertainments.</hi> We may easily encourage mutual Kindness, between Persons of equal Wealth and Fortunes in the World, since this is not discrepant to an Unregenerate and Sinful State, for <hi>Publicans</hi> and <hi>Sinners</hi> do the same, <hi>Mat. 5.46.</hi> But to give Testimonies of our <hi>Christian Love,</hi> by Acts of Bounty and Support to the Poor and Needy, as well as by our Regard to the Rich and Honourable, this is to prove our selves <hi>Christians</hi> indeed, and shews that we are influenc'd by a principle of <hi>Love</hi> that comes from above. And to do this, and to live with each other according to the Obliga<g ref="char:EOLhyphen"/>tions of our Religion and Country, is that which is Re<g ref="char:EOLhyphen"/>commended in the following Discourse, which you have entreated me to make Publick. And to what is said there, I shall add this Request, <hi>That in every Passage
+<pb facs="tcp:207309:5"/>of Life, you'd remember your Country, and never be Guilty of any thing that may cast a Blemish upon it.</hi> That if the <hi>Manes</hi> of our honest Fore-Fathers have any Knowledge of, or concern for, the Deeds of their Posterity, they may be satis<g ref="char:EOLhyphen"/>fied in seeing that we do not degenerate from their Sincerity: But however that you'd so live, that <hi>God,</hi> (who we are sure knows and takes notice of all our Actions, and will according to 'em judge, us hereafter, that <hi>He</hi>) may be satisfy'd and pleas'd with us, that so hereafter it may be said to us, <hi>Well done good and faithful Servants.</hi>
+            </p>
+            <p>To Conclude, As our Country produces a People of great Inte<g ref="char:EOLhyphen"/>grity, wh are like the numerous Flocks of our Sheep (that feed on our Downs) Harmless and Innocent, and whose Language ought to be as plain as our Garb, as clear as our Air, and harm<g ref="char:EOLhyphen"/>less like to our Sheepherds Lives; I have therefore not endea<g ref="char:EOLhyphen"/>vour'd, in this Discourse, to speak contrary to our honest <hi>Wilt<g ref="char:EOLhyphen"/>shire</hi> Plainess: And perhaps the little, the <hi>very little</hi> Notice of a single Day, to fit my self for the Business of appearing be<g ref="char:EOLhyphen"/>fore you, has so far assisted to carry on our Character, that it helps to prove, that even in our <hi>Sermons,</hi> as well as all things else, we are Men of great Plainess, and I hope of as great Pro<g ref="char:EOLhyphen"/>bity, tho' we want the Smooth <hi>Language,</hi> as well as the Refi<g ref="char:EOLhyphen"/>ned <hi>Arts</hi> of the Court.</p>
+            <p>I am sure what I deliver'd was honestly intended, and that I know will help to make it acceptable to <hi>Honest You,</hi> tho it be not al<g ref="char:EOLhyphen"/>lowed as an Apology to Others. That God may Bless our Coun<g ref="char:EOLhyphen"/>try, and render it Illustrious by the Productions of excellent Men, and that <hi>You</hi> may help to make it so, is the Prayer of</p>
+            <closer>
+               <signed>
+                  <hi>Your Humble Servant, And Country-man,</hi> J. Russel.</signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="sermon">
+            <pb n="9" facs="tcp:207309:5"/>
+            <head>
+               <hi>Mutual Love and Charity,</hi> Recommended in a <hi>Sermon</hi> Preach'd to the Natives of <hi>Wiltshire</hi> at their <hi>Feast, November</hi> the 12th. 1695.</head>
+            <head type="sub">I PETER IV. <hi>former part of the</hi> 8 Verse. <hi>And above all things have fervent Chari<g ref="char:EOLhyphen"/>ty among your selves.</hi>
+            </head>
+            <p>
+               <hi>KIndness</hi> and <hi>Love</hi> is surely the most Univer<g ref="char:EOLhyphen"/>sal, as well as the most Noble Affection of the Creature; 'tis a Vertue which is altogether agreeable to Humanity; Howsoever some make the Condition of Mankind a state of War: For tho' the Fall of Man, has clouded the Original Nobility of the Soul, yet still there are plain Intimations of this Duty, left on the bro<g ref="char:EOLhyphen"/>ken and ruin'd Face of Nature: so that he that consults but the Dictates of his Reason, (though they are obscur'd and blended with Ignorance) yet will find this not only to be his Duty, but also his Interest. It still remains manifest not only from hence, but also from a Discovery of it even in the
+<pb n="10" facs="tcp:207309:6"/>better and kinder part of the Irrational Creatures, who have a Complacency and Delight in Con<g ref="char:EOLhyphen"/>versation with those of their own Species, and that makes 'em Flock and Herd together, (they are Eagles and Wolves that go alone, but Doves and Sheep go in Flocks and Flights) so that should a Man fail of this Qualification, he must not only put off Humanity, but also sink down to the low<g ref="char:EOLhyphen"/>est Degree of Brutality, and put on the worst part of the feral Nature.</p>
+            <p>To delight to do Good, and to be satisfy'd and pleas'd with the Prosperity of our Neighbours, to help forward (that which we call) their Good Fortune, and to endeavour to rescue them out of Misery, is to imitate God, who is best pleased in the Works of his Mercy, and most Delighted when he shews himself Gratious: And Man being the Image and Perfection of the material Creation, and being, by the Excellency of his Soul, quali<g ref="char:EOLhyphen"/>fyed for <hi>Love</hi> and <hi>mutual Kindness;</hi> One may therefore expect to find this Vertue in him in the most exalted Degree and largest Measure: And he that dos not degenerate from the excellency of Humane Nature, he shews that this <hi>Love</hi> is Essen<g ref="char:EOLhyphen"/>tial to him, that he is enfluenc'd by it, and he ex<g ref="char:EOLhyphen"/>presses it in all the Actions of his Life, and dos endeavour in every thing to walk agreeable to that, which he perceives so plainly to be his Du<g ref="char:EOLhyphen"/>ty, So that however the Knowledge and Sense of our Piety toward God may be dim'd and sully'd by Man's first Transgression, yet this of <hi>Love</hi> and
+<pb n="11" facs="tcp:207309:6"/>
+               <hi>Kindness</hi> to our Neighbour, remains even in this our corrupt State suffitiently clear, and can only be extinguisht by offering Violence to Reason.</p>
+            <p>But now, as Religion is the Improvement of Reason, and the Rectification of our Nature, as it encourages whatever Remains of Vertue it finds in us, and labours to Plant whatsoever it finds wanting; so it teacheth nothing more clear and plain than this Duty of <hi>Love,</hi> of <hi>Benevolence,</hi> and <hi>Charity</hi> one to another: Hence our Blessed Savi<g ref="char:EOLhyphen"/>our tells us that <hi>to Love our Neighbours as our selves</hi> is the second great Commandment.
+<note place="margin">Mat. 22.39</note> And St. <hi>Paul</hi> comprehends the whole Law in this one Word <hi>LOVE,</hi> Rom. 13.9. <hi>For this thou shalt not commit Adultery, Thon shalt not Kill, Thou shalt not bear false Witness, Thou shalt not covel; and if there be any other Commandment, it is briefly compre<g ref="char:EOLhyphen"/>hended in this Saying, Thou shalt Love thy Neighbour as thy self.</hi> Hence we have such frequent <hi>Me<g ref="char:EOLhyphen"/>mento's,</hi> such express Injunctions, and repeated Precepts to this Duty; as if the Exercise of this Duty of <hi>Love,</hi> of <hi>Charity,</hi> was the <hi>Whole</hi> of what we had to do: Agreeable to this, saith St. <hi>Paul</hi> 1 Cor. 13.13. <hi>And now abideth Faith, Hope, Chari<g ref="char:EOLhyphen"/>ty, these Three; but the greatest of these is Charity.</hi> And so, accordingly, in his Epistle to the <hi>Coloss<g ref="char:EOLhyphen"/>ans,</hi> he calls it <hi>The Bond of Perfectness;</hi>
+               <note place="margin">Col. 3.14.</note> intima<g ref="char:EOLhyphen"/>ting that the Perfection of all Christian Duties which we owe to One Another is bound up in the Bundle of <hi>Charity;</hi> or that single Vertues are but scatter'd and loose, as they are distinct, but are
+<pb n="12" facs="tcp:207309:7"/>knit together by the Concatenation of this Grace of <hi>Charity;</hi> so that this Grace being kept whole and entire all other Vertues would be preserved in it, which would adorn us in Prosperity, and succour us in Adversity. And to this Purpose St. <hi>Peter</hi> warning the Christian <hi>Jews,</hi> either of the End of the World, or (which seems more a<g ref="char:EOLhyphen"/>greeable to the design of his Words) of the Con<g ref="char:EOLhyphen"/>summation of the <hi>Jewish</hi> State, and that Cup of Wrath which, without any Mixture or Allay of Mercy, was shortly to be poured forth on the Ci<g ref="char:EOLhyphen"/>ty <hi>Jerusalem,</hi> and the Crucifiers of our Lord; he admonisheth them (ver. 7. <hi>But the End of all things is at hand, be ye therefore Sober.</hi>) to Tempe<g ref="char:EOLhyphen"/>rance, Moderation, and Vigilancy, that they might be Prepar'd to escape the Distress which would surprize them with the rest, if they were careless; and exhorts 'em <hi>(Watch unto Prayer)</hi> to be sollici<g ref="char:EOLhyphen"/>tous in Supplication to obtain a Security from Heaven, that they might not be swallow'd up in that overflowing Flood of Wrath which would drown the rest in a total Destruction: And to to those Admonitions he adds, <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>Above all things</hi> (Emphatically spoken) <hi>have fervent</hi> Love or <hi>Charity among your selves.</hi> As if this were of greater Consequence, than the Duties of Sobrie<g ref="char:EOLhyphen"/>tys Watchfulness, and Prayer which he mentio<g ref="char:EOLhyphen"/>ned before.</p>
+            <p>By the way, I shall remark, That whatsoever Times God hath reserv'd us for, <hi>The Duty of Love and Charity, conscientiously Prac<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>tic'd, will not only
+<pb n="13" facs="tcp:207309:7"/>render us Acceptable to God, and easie to our selves; but by it also we shall gain the greatest Comfort One from Another.</hi>
+            </p>
+            <p>And truly, since we are fallen into such a dege<g ref="char:EOLhyphen"/>nerate Age, that the Love of many is waxen Cold, not only to God, but also to their Neighbours; and that such a Selfish Spirit is broken loose a<g ref="char:EOLhyphen"/>mongst us, that it hath almost ruin'd our state and Nation. I therefore think no Doctrine more fit, no Instructions more Proper to be prest by the Ministers of our Holy Religion, than this of mu<g ref="char:EOLhyphen"/>tual <hi>Love</hi> and <hi>Charity.</hi>
+            </p>
+            <p>And since we are here met together, to testify our continuance of this Christian Vertue, and al<g ref="char:EOLhyphen"/>so to encrease it; I hope the insisting on this Sub<g ref="char:EOLhyphen"/>ject, will appear not unsuitable, but very Proper to our present Occasion.</p>
+            <p>I shall therefore consider,</p>
+            <p n="1">1st. What the Grace of <hi>Charity</hi> is which the Apostle dos here Recommend.</p>
+            <p n="2">2dly. Whence it proceeds: Or, what are the chiefest causes of its Production.</p>
+            <p n="3">3dly. How this is to be Exercis'd towards all Men; but more particularly (according to the Text) among our selves.</p>
+            <p n="4">4thly. I shall endeavour to apply it more Re<g ref="char:EOLhyphen"/>spectively to our present Purpose.</p>
+            <p n="1">1. What the Grace of <hi>Charity</hi> is;</p>
+            <p>Of this I shall borrow the Definition from St. <hi>Au<g ref="char:EOLhyphen"/>stin,</hi> who tells us that <hi>Charity</hi> is, <hi>Rectissima animi Affectio, quâ Deus diligitur propter<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>se, &amp; proximus prop<g ref="char:EOLhyphen"/>ter
+<pb n="14" facs="tcp:207309:8"/>Deum.</hi> 'Tis the justest and noblest Affection of the Soul, whereby we Love God for himself, <hi>i. e.</hi> on the Account of his own Infinite Excellen<g ref="char:EOLhyphen"/>cies, and we Love our Neighbour on the Account of God, as he's the Image of that Infinite Being.</p>
+            <p>So that this is the Spring which gives Motion to all the Duties we owe either to our Creator or Fellow Creatures.</p>
+            <p>When we Love God, we cannot choose but rea<g ref="char:EOLhyphen"/>dily Obey him, for <hi>Love</hi> will excite us to a most cheerful Obedience: When our Souls are warm<g ref="char:EOLhyphen"/>ed with this Holy Flame, we raise our selves to the highest Pitch of Faith, of Hope, and Assurance of Favour, and are also most affected with a true Humility.</p>
+            <p>Hence our Saviour, answering to the Lawyer's Question, <hi>Master which is the great Commandment in the Law?</hi>
+               <note place="margin">Mat. 22.36.</note> Replies, <hi>Thou shalt Love the Lord thy God with all thine Heart, and with all thy Soul, and with all thy Mind:</hi> Intimating that this Duty of <hi>Love</hi> is the Fountain of Piety, the Root of Godli<g ref="char:EOLhyphen"/>ness, the Great and Comprehensive Duty of Reli<g ref="char:EOLhyphen"/>gion; containing in it, and giving Motion to, all the other Relative Duties which we owe unto God. And as he that Loves God, must also Love his Image and Similitude; So our Lord goes on in his Answer, The Second great Command is like unto the First, <hi>viz. Thou shalt Love thy Neigh<g ref="char:EOLhyphen"/>bour as thy self.</hi>
+            </p>
+            <p>So that our <hi>Charity</hi> or <hi>Love</hi> (for the Word has here much what the same signification) must Burn,</p>
+            <pb n="15" facs="tcp:207309:8"/>
+            <p>
+               <hi>First,</hi> With the Purest and most Exalted Flame to God, it must warm us with an Holy Affection unto the most High, who, as he deserves, so he commands our highest Esteem.</p>
+            <p>
+               <hi>Secondly,</hi> It must dilate it self in Branches of <hi>Love</hi> towards our Neighbour. And indeed that Man can never (as he ought) Love his Neighbour, that dos not first Love God: For <hi>Charity</hi> is of an Heavenly Nature, and carries the Soul upwards towards God, moves it strongly towards its Cen<g ref="char:EOLhyphen"/>tre as its ultimate End; it's a Pure and Heavenly kind of Fire kindled in the Heart by the Pure and Holy Spirit of God; and whatever Flames we may have towards our Neighbours, if they are not of this Celestial Nature, they are but <hi>Ignes Fatui,</hi> but Sooty Vapours arising from beneath, and are <hi>Earth<g ref="char:EOLhyphen"/>ly, Sensual, Divelish.</hi>
+            </p>
+            <p>And, if our Hearts Burn within us, with this Pure and Holy <hi>Love</hi> to God, we cannot chuse but have a Friendly Warmth towards our Neighbour; for this will incline us to all the Relative Duties which we owe to one another; twill move our Hearts to Commiseration, to Tenderness and Pit<g ref="char:EOLhyphen"/>ty; 'twill make us Courteous, and Pittiful, and to <hi>Love as Brethren;</hi> 'twill make us of a Sympa<g ref="char:EOLhyphen"/>thizing Spirit, and to be ready to <hi>bear one anothers Burthens, and so endeavour to fulfil the Law of Christ,</hi> which <hi>Law</hi> is <hi>Love;</hi> 'twill make us <hi>Put on (as the Elect of God) Bowels of Mercy, Kindness, Humbleness of Mind, Meekness, Long-suffering, ready to Forbear one another, and to Forgive one another.</hi>
+               <note place="margin">Coloss. 3.12.</note> In a Word
+<pb n="16" facs="tcp:207309:9"/>'twill make us conscientiously Obey that Com<g ref="char:EOLhyphen"/>mandment which we have from Heaven, <hi>That he who loveth God must love his Brother also.</hi>
+               <note place="margin">1 Joh. 4.21.</note>
+            </p>
+            <p>And, since the nature of my Subject, and the present Occasion principally direct to this, I shall chiefly apply my Discourse to it, <hi>viz,</hi> To consider that <hi>Charity</hi> which we ought to Exercise one to<g ref="char:EOLhyphen"/>wards another, or among our selves.</p>
+            <p>And this is that most Noble Vertue, which, if it were rightly understood, and sincerely Practi<g ref="char:EOLhyphen"/>sed, by all Men in general, in all the Affairs of Hu<g ref="char:EOLhyphen"/>mane Life, it would make an Universal Reform in the World, and change the corrupt and foul Face of Things into an Heavenly kind of Beauty and peaceful Order. We should hear no more Complaints in our Streets, the Fatigues and Vio<g ref="char:EOLhyphen"/>lence of War would cease from Abroad, and Liti<g ref="char:EOLhyphen"/>gous Suits and Unchristian Contentions would find their Period at Home: For this is that Af<g ref="char:EOLhyphen"/>fection which is the Begining of Friendship, 'tis the Bond of Peace, and the Spring of Justice, for I can never defraud or deal unjustly by him, to<g ref="char:EOLhyphen"/>wards whom my Heart burns with fervent <hi>Chari<g ref="char:EOLhyphen"/>rity.</hi> And therefore says St. <hi>Austin, Ubi Charitas est, non potest esse injustia, dilectio enim Proximi malum non operatur.</hi> If we Love our Neighbour we can never wrong him, for Charity worketh no ill to our Neighbour, since it rejoyceth not in Iniqui<g ref="char:EOLhyphen"/>ty,
+<note place="margin">1 Cor. 13.6</note> but rejoyceth in the Truth: Where therefore this is Rooted in the Heart, there is a Rectitude and Honesty of Life agreeable to it.
+<note n="*" place="margin">R<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>dicata est Cher tas? se. c<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ru esto, ni<g ref="char:EOLhyphen"/>hil Mali procedere potest, St. <hi>Aust.</hi>
+               </note>
+            </p>
+            <pb n="17" facs="tcp:207309:9"/>
+            <p> This carries forth the Soul to a Delight and Complacency in our Neighbours and Fellow-Chri<g ref="char:EOLhyphen"/>stians, or however, at least, to all Acts of Benevo<g ref="char:EOLhyphen"/>lence of Good-will towards 'em; And therefore as various as the Circumstances of our Lives, and the several Duties we owe to Mankind, so dos <hi>Charity</hi> form our Deportment, that in nothing we may be found Deficient or Negligent: Thus it teaches us the various Duties of <hi>Loyalty</hi> to our Prince, of <hi>Obedience</hi> to Magistrates, of <hi>Piety</hi> to our Parents, of <hi>Respect</hi> and <hi>Deference</hi> to our Su<g ref="char:EOLhyphen"/>periors, of <hi>Honesty</hi> and <hi>Justice</hi> to all that we are concern'd with in our several Callings, of <hi>Love</hi> and <hi>Good-wishes</hi> to every man in general, of <hi>Com<g ref="char:EOLhyphen"/>passion,</hi> to the Miserable, of <hi>Mercy</hi> to Offenders, and of that which we do more particularly call <hi>Cha<g ref="char:EOLhyphen"/>rity</hi> to those that are in Want: 'Tis in a Word (ac<g ref="char:EOLhyphen"/>cording to St. <hi>Austin</hi>) the Root of all Moral Vertues, <hi>Radix omnium malorum est Cupiditas, &amp; radix omni<g ref="char:EOLhyphen"/>um bonorum est Charitas:</hi>
+               <note n="*" place="margin">Et simul am<g ref="char:EOLhyphen"/>bae esse non pos<g ref="char:EOLhyphen"/>sunt, quia nisi una evulsa fue<g ref="char:EOLhyphen"/>rit, alia planta<g ref="char:EOLhyphen"/>vi non potest.</note> As the Root of all Evil is Covetuousness, so the Root of all Vertues is this of <hi>Charity;</hi> 'tis the Badge of our Religion, the <hi>Shibboleth</hi> and discriminating Character of a <hi>Chri<g ref="char:EOLhyphen"/>stian,</hi> a Testimony that the Life of God is wrought in us, and an earnest of that everlasting Glory, which we expect in Heaven hereafter.</p>
+            <p n="2">2dly. The Second thing is to consider whence this Grace proceeds, and what are the Principal Springs of its Production.</p>
+            <p>The efficient cause of this Grace is God himself, who is the Fountain of all Vertue, and the Al<g ref="char:EOLhyphen"/>mighty
+<pb n="18" facs="tcp:207309:10"/>Husbandman that sows the Seed of all di<g ref="char:EOLhyphen"/>vine Graces in the humane Soul, and He by his Holy Spirit, warms our Hearts, and enlightens our Minds, that we come to some Apprehensions of his Excellencies, do see that he's Infinitely valu<g ref="char:EOLhyphen"/>able and Lovely, and so we are drawn to Love him and make him our chiefest Good. And indeed it's the right Knowledge of God, that makes us Love him, and that blows up the Flame of Di<g ref="char:EOLhyphen"/>vine Holy Affection in our Hearts; for the more we come to know him, the more are our Souls car<g ref="char:EOLhyphen"/>ry'd forth in admiration of him, and Affection to him: And the Reason why Men Love him so little, is because they know so little of Him.</p>
+            <p>
+               <note n="*" place="margin">
+                  <hi>Charitas ad cuncta vir<g ref="char:EOLhyphen"/>tutum facta di<g ref="char:EOLhyphen"/>latatur, quae à duobus Praecep<g ref="char:EOLhyphen"/>tis incipit, sed se ad innumera extendit Hu jus Charitatis initium est dilectio Dei &amp; Proximi, quia per amorem Dei, amor proximi gignitur &amp; per amorem proximi, amor Dei nutritur; nam qui Deum amare negligit, profecto Proximum diligere nescit. St.</hi> Greg.</note> And when this divine Fire towards God is Kindled in the Heart, it soon flames out in all Acts of Kindness and Love towards our Neigh<g ref="char:EOLhyphen"/>bour; for, <hi>He that loves God, whom he hath not seen, must needs love his Brother, whom he has seen.</hi> So that the right Foundation of true <hi>Charity</hi> is layd in the <hi>Love</hi> of God,</p>
+            <p>But then this (in the next Place) is carried on by inferior Causes, and cherished by Rational Considerations, such as,</p>
+            <p n="1">1. <hi>The Excellency and Conveniency of it.</hi> This would make a kind of Heaven upon Earth, and put an End to all our Discords, that rent our Church and disturb the State; this would calm
+<pb n="19" facs="tcp:207309:10"/>and still all our Murmurings and Repinings; And Abroad sheath the Sword of War, and at Home beget and nourish Peace; 'twould, according to <hi>Isaiah</hi>'s Prophecy, <hi>Teach us to beat our Swords into Plough-shears, and our Spears into Pruning-hooks;</hi>
+               <note place="margin">Isai. 2.4.</note> and turn all the Weapons of War into Materials of Peace, and make all the Instruments of Litigous Law, Null and Useless.</p>
+            <p n="2">2. <hi>From the Consideration of its Reason and Justice:</hi> Since if we desire <hi>Kindness</hi> and <hi>Love</hi> from others, it's just that we should give the same unto them; and this is so clear, that, tho' the Primitive Beauty of the Soul be very much sullied by Ignorance and Passion, yet it remained manifest to the very Hea<g ref="char:EOLhyphen"/>thens, <hi>Quod fieri tibi non vis, alterine feceris;</hi> which exactly corresponds with our Saviour's Rule, <hi>What<g ref="char:EOLhyphen"/>soever ye would that Men should do unto you,</hi>
+               <note place="margin">Mat. 7.12.</note>
+               <hi>do ye so unto them.</hi> And if therefore we would receive <hi>good Turns</hi> from others; if we desire <hi>Justice</hi> and <hi>Kindness</hi> from our Superiors, <hi>Good-will</hi> and <hi>Since<g ref="char:EOLhyphen"/>rity</hi> from our Equals, and <hi>Esteem</hi> and <hi>Respect</hi> from those beneath us, we shall condemn our selves by our own Desires, and make our own Expectations arise in Judgment against us, if we in like man<g ref="char:EOLhyphen"/>ner do not give all those things, which we expect to receive.</p>
+            <p n="3">3. A Consideration of those <hi>mutual Bonds of Cha<g ref="char:EOLhyphen"/>rity</hi> which are laid on all Men in General, should teach us <hi>Charity</hi> and <hi>Benevolence</hi> to each other, since we have all the same Rational Souls, and the same Shape and Fashion of Body, and
+<pb n="20" facs="tcp:207309:11"/>the same common Principles of Nature and Reason; but more especially we that are <hi>Christi<g ref="char:EOLhyphen"/>ans,</hi> when we consider that we are all Subjects, of the same Prince (namely <hi>Jesus Christ</hi>) are all un<g ref="char:EOLhyphen"/>der the same Covenant of <hi>Grace,</hi> and oblig'd by the same Precepts of Religion, are here in this World, in the same State of Tryal and Appro<g ref="char:EOLhyphen"/>bation, walking all in the same Way, like Stran<g ref="char:EOLhyphen"/>gers and Pilgrims bound for the same City, expo<g ref="char:EOLhyphen"/>sed all to the same Temptations, and have all the same common Adversary to oppose, and engag'd in the same Spiritual Warfare, are all alike Heirs of the same Hope, and Expectants of the same fu<g ref="char:EOLhyphen"/>ture Glory hereafter. These Considerations should lay strong Obligations upon us of <hi>Love</hi> and <hi>Charity,</hi> of <hi>mutual Forbearance, Mercy,</hi> and <hi>Kind<g ref="char:EOLhyphen"/>ness</hi> towards each other; For how can we who hope to enjoy each other in Heaven, be Unkind and Ill-na<g ref="char:EOLhyphen"/>tred, Unjust, or Uncharitable, to one another here on Earth? If we believe that one part of our <hi>Happiness</hi> hereafter in Heaven shall be the Eternal Fruition of the Company of Saints, of all those Fellow-Christians who are Members, with us, of the Church Militant here, (as surely it shall) How then can we be otherwise than <hi>Just</hi> and <hi>Kind,</hi> than <hi>Benevolent</hi> and <hi>Charitable,</hi> and of a <hi>Sympathizing Spirit</hi> towards our Fellows, who are Members with us of the Church here, and hope to be Partakers of the Church Triumphant there?</p>
+            <p>The want of this is a great Argument of our want of the Power of <hi>Religion,</hi> that the Efficacy
+<pb n="21" facs="tcp:207309:11"/>of the Gospel dos not influence our Lives, and that we have no more than the name of Christia<g ref="char:EOLhyphen"/>nity, and its external Profession, since where there is a <hi>pure Heart,</hi> a <hi>good Conscience,</hi> and a <hi>Faith unfeigned,</hi> there is also <hi>Charity,</hi> which is the End of the Commandment. But,</p>
+            <p n="3">3dly. I proceed to the Third Point, To consider how this Grace is to be Exercis'd toward all, but more aspecially (agreeable to the Text) <hi>Among our selves.</hi>
+            </p>
+            <p>As to it's common Exercise, our Saviour tells us it must be Universal; it must be as large as the Universe in Intention, and desire, tho' it cannot be in Practice: We must Love every thing that bears on it the Stamp of Humanity, and has the Image of God, in a Rational Soul; yea, the very Brutal part of the Creation must not be depriv'd of their Share of our <hi>Charity:</hi>
+               <note place="margin">Prov. 12.10.</note>
+               <hi>For a Righteous Man must be Merciful to his Beast.</hi>
+            </p>
+            <p>We must have a Charity for <hi>Turks, Jews,</hi> and <hi>Heathens;</hi> a Compassion for their Blindness, Igno<g ref="char:EOLhyphen"/>rance, and Stubborness, which must excite us to help 'em by our Prayers, that our Common Fa<g ref="char:EOLhyphen"/>ther would discover the Knowledge of himself un<g ref="char:EOLhyphen"/>to 'em in the Light of the Gospel.</p>
+            <p>We must exercise this Grace towards even our Adversaries, and learn from the Pattern and Pre<g ref="char:EOLhyphen"/>cept of our Lord, <hi>To Love our Enemies, to Bless them that Curse us, do good to them that hate us, and Pray for them that dispitefully use us and persecute us:</hi> And hereby shall we approve our selves to be the
+<pb n="22" facs="tcp:207309:12"/>
+               <hi>Children of our Father which is in Heaven.</hi> Our Kindness and Charity, like the Beams of the Sun, ought to warm and refresh all about us, and <hi>to rise upon the Evil, as well as upon the Good;</hi> and like Dews and refreshing Showers, to water with our Benevolence, <hi>both the Just, and the Unjust.</hi>
+            </p>
+            <p>But however, tho we are to be thus universal<g ref="char:EOLhyphen"/>ly Charitable, and to engage our selves in a prac<g ref="char:EOLhyphen"/>tice of general Benevolence; yet the Measures of our Love are not to be extended to all alike: as the Sun dos enlighten the whole World, yet he shines upon some parts with a stronger, and upon others with a fainter Ray: So that tho we are en<g ref="char:EOLhyphen"/>gag'd by our Sacred Religion to do Good to all; yet there are some Objects which are entituled to a greater share of our Charity than others. 'Tis true our Lord commands us <hi>to love our Neighbour</hi> (and by that Word, seems to be intimated all Man<g ref="char:EOLhyphen"/>kind) <hi>as our selves</hi>
+               <note n="*" place="margin">
+                  <hi>Dilige proxi<g ref="char:EOLhyphen"/>mum sicut te ip<g ref="char:EOLhyphen"/>sum. Preximus in hee loco non sanguinis propin<g ref="char:EOLhyphen"/>quitate, sed ra tionis societate pensandus est, in qua socii sunt omnes homines. St.</hi> Aust.</note>: But this (I take) relates to the <hi>Sincerity,</hi> and not to the <hi>Measure</hi> of the Affection: As a Man loves himself, without Hypocrisy or Dissimulation, Truly and Sincerely; so also he ought to love his Neighbour. And thus he may love another as unfeignedly, tho not so fervently, as he loves himself: He may have as sincere a Cha<g ref="char:EOLhyphen"/>rity for an Allien, as for a Countryman, tho the Degree be not so great, nor the Measure so large: And this is agreeable to St. <hi>Paul</hi>'s Exhortation, <hi>Gal.</hi> 6.10. <hi>As we have Opportunity, let us do good unto all Men, especially unto them of the Houshould of Faith.</hi> Therefore there are Degrees of Love and
+<pb n="23" facs="tcp:207309:12"/>Charity; and in the Order and Regulation of these we are to walk by these Rules.</p>
+            <p>
+               <hi>First,</hi> Of Religion.</p>
+            <p>
+               <hi>Secondly,</hi> Of Discretion and common Prudence.</p>
+            <p>
+               <hi>Thirdly,</hi> Of Nature.</p>
+            <p n="1">1st. We are to walk by the Rule of Religion: And this will teach us to love good Men more than bad, and the obedient Subjects of Jesus Christ, rather than those that are in Rebellion against him. He that loves God above all, must neces<g ref="char:EOLhyphen"/>sarily (in the next place) have the greatest Love, for him that's most like unto God, that excells in Holiness, and goes beyond others in Virtue and Goodness, that comes nighest to that Pattern of Perfection which is set before us, <hi>in being Perfect as our Father which is in Heaven is Perfect.</hi>
+               <note place="margin">Mat. 5.48.</note> And therefore we ought to have a greater Degree of Love and Charity for a Christian than a Heathen, for a Believer than an Infidel, and for one that by the Holiness and Integrity of his Life, gives Proof of his Conversion, then for another, that by his Vices and neglect of Piety, gives Testimony of his being in a natural State. As that Person that's truly Loyal, must necessarily love a Fellow-Sub<g ref="char:EOLhyphen"/>ject above a forreign Enemy; so he that's the Ser<g ref="char:EOLhyphen"/>vant of Christ Jesus, must needs have a greater Regard to one that's listed under the same Banner, that Fights in the same Battle, and lives under the same Discipline with himself, than for an Unbe<g ref="char:EOLhyphen"/>lieving Jew or Heathen, or for a meer nominal and fugitive Christian.</p>
+            <pb n="24" facs="tcp:207309:13"/>
+            <p> So that agreeable to St. <hi>Paul</hi>'s Rule, before men<g ref="char:EOLhyphen"/>tioned,
+<note place="margin">Gal. 6.10.</note> tho' we ought to do Good to all Men, yet we ought to have a more particular Regard to Good Men, and our <hi>Charity</hi> ought to express it self in the greatest Vigour and Warmth to the <hi>House<g ref="char:EOLhyphen"/>hold of Faith;</hi> towards those we ought to have a <hi>fervent Charity,</hi> our Hearts should burn with a more than a common Fire of <hi>Love,</hi> considering that they are a Kin unto us, there being a Spiri<g ref="char:EOLhyphen"/>tual Relation between us; for we are all <hi>Brothers and Sisters in Christ,</hi>
+            </p>
+            <p n="2">2dly. <hi>The Second Rule, is that of Discretion and common Prudence:</hi> Tho' we ought to have the highest <hi>Love</hi> and <hi>Charity</hi> for the most eminent Christians, yet in the Exercise of this Duty, those that are near us, those that are round about us, that stand upon our Level, or to whom some Bonds of Nature do more strictly oblige us; These may claim the greatest Measures of our <hi>Kindness.</hi>
+            </p>
+            <p>The Miseries of One, tho' not so Worthy in respect of Vertue and Piety, may yet call for greater Measures of our Bounty than Another that is far better, but dos not Labour under the same Difficulties. A Poor wretched <hi>Turk</hi> may (by reason of some circumstances) be a greater Object of our <hi>Pitty, Mercy,</hi> and <hi>Charity,</hi> than a believing <hi>Christian.</hi> Thus our Saviour, tho he exercised his <hi>Love</hi> chiefly towards his Disciples, yet sometimes he convers'd and shew'd wonderful Testimonies of <hi>Love</hi> and <hi>Commiseration</hi> to <hi>Publi<g ref="char:EOLhyphen"/>cans</hi> and <hi>Sinners.</hi> Times of <hi>Affliction</hi> and <hi>Perse<g ref="char:EOLhyphen"/>cution</hi>
+               <pb n="25" facs="tcp:207309:13"/>call for higher degrees of this <hi>Grace,</hi> than the Days of <hi>Prosperity;</hi> and our <hi>Love</hi> ought to be more intense to those that are beaten upon by such a Storm, than to those that sit in the Sun-shines and Calms of Peace; that by bearing one anothers Burthens, we may give Succour and Relief, and administer Consolation to those that are Afflicted. And because a dreadful time of Vengance was approaching on <hi>Jerusalem,</hi> therefore does St. <hi>Peter,</hi> here in this Chapter, more earnestly press this <hi>Duty,</hi> as that which ought to be warm in all times, but more <hi>fervent</hi> in Seasons of Distress. And therefore, tho we ought to be kind to All, yet <hi>Prudence</hi> will direct us to be chiefly kind to those that are in Affliction, and are expos'd to Adver<g ref="char:EOLhyphen"/>sity.</p>
+            <p>
+               <hi>Prudence</hi> therefore is necessary to assist us in this, as well as in all inferior Graces; and he that's a <hi>Good,</hi> a <hi>Charitable,</hi> a <hi>Kind,</hi> and a <hi>Merciful Man,</hi> will also endeavour to be <hi>Solomon</hi>'s <hi>Wise Man,</hi>
+               <note place="margin">Eccl. 8.5.</note>
+               <hi>whose Heart discerneth both time and Judgment.</hi> But,</p>
+            <p n="3">3dly. There's another Bond, that obligeth our <hi>Charity</hi> and Christian <hi>Love,</hi> and that's that of <hi>Na<g ref="char:EOLhyphen"/>ture:</hi> I mean the Obligations which some <hi>Persons,</hi> and some <hi>Places</hi> do naturally lay on us, more than Others: And these Bonds cannot, nor ought not to be violated, without great Injustice and In<g ref="char:EOLhyphen"/>humanity.</p>
+            <p>
+               <hi>Religion,</hi> tho it teacheth us to correct our Na<g ref="char:EOLhyphen"/>tures, yet it never gives Liberty to break its <hi>Bounds,</hi> or to put off those common, those natural Affecti<g ref="char:EOLhyphen"/>ons
+<pb n="26" facs="tcp:207309:14"/>which are planted in us; but rather (on the other side) blames those that are <hi>without natural Affection,</hi>
+               <note place="margin">2 Tim. 3.3.</note> as Irreligious.</p>
+            <p>Therefore our Kindred, <hi>(according to the Flesh)</hi> our natural Relations,
+<note place="margin">Rom. 1.3.</note> may justly claim a larger Share of our Love and Charity, than those to whom we are not so nearly bound: And he that rejects these Obligations, and acts contrary to 'em, seems to endeavour to prove himself a <hi>Terrae-Filius,</hi> as if he thought himself the Child of an unknown Father; and he puts himself in <hi>Ishmael</hi>'s Conditi<g ref="char:EOLhyphen"/>on, <hi>Whose Hand was against every Mans Hand, and every Mans Hand against his.</hi>
+               <note place="margin">Gen. 16.12.</note>
+            </p>
+            <p>He therefore that falls short in this, in cashier<g ref="char:EOLhyphen"/>ing the Bonds of common Love to <hi>Kindred</hi> by Na<g ref="char:EOLhyphen"/>ture, seems not only to have bid a Farewel to Religion, but also to Humanity: And is in this respect, (as St. <hi>Paul</hi> says, not very forreign to this Matter) <hi>worse than an Infidel.</hi>
+               <note place="margin">1. Tim. 5.8.</note>
+            </p>
+            <p>But farther, there's not only an Obligation, in respect of <hi>Persons,</hi> but also in respect of <hi>Places;</hi> The Country from whence wee took our Birth, the very Soil and Air which gave us our first Nourishment, deserves our Esteem and kindest Regard. And we find that this kind of Love has been Planted. and Cherished in the Hearts of the noblest Persons in the World, whose Memo<g ref="char:EOLhyphen"/>ries <hi>are continued to us by the power of History: Ser<g ref="char:EOLhyphen"/>torius</hi> so lov'd his Country, That even in his great<g ref="char:EOLhyphen"/>est Prosperity in Victories, still he wish'd to be recall'd to <hi>Rome,</hi> and protested he had rather be
+<pb n="27" facs="tcp:207309:14"/>the meanest Citizen of that City, than to live in Banishment, tho' he should become the Emperour of the World
+<note n="*" place="margin">Plutarch. in <hi>vita</hi> Sertorij,</note>: Tho' <hi>Joseph</hi> was rais'd from a poor Slave, to be the Prime Minister of State to the mighty <hi>Pharoah</hi> in the Land of <hi>Egypt,</hi> and tho' he had contracted Affinity with <hi>Potiphar</hi> Prince of <hi>On,</hi> by Marrying his Daughter; yet still he retain<g ref="char:EOLhyphen"/>ed a <hi>Love</hi> for the Land of <hi>Canaan</hi> his native Coun<g ref="char:EOLhyphen"/>try; and therefore he commanded his Ashes to be removed thither, whenever God should deliver the Children of <hi>Israel</hi> out of that <hi>Country:</hi> And this St. <hi>Paul</hi> mentions among the Acts of his Faith, <hi>Heb.</hi> 11.12. <hi>By Faith</hi> Joseph <hi>when he died, made mention of the departing of the Children of</hi> Israel <hi>out of</hi> Egypt, <hi>and gave Commandment concerning his Bones.</hi>
+            </p>
+            <p>And if the very Country where we drew our first Breath merit our Esteem, and lay a Claim to our <hi>Charity;</hi> surely much more do the People of the Country, who in this respect are as it were our Kinsmen, there being a sort of Natural Re<g ref="char:EOLhyphen"/>lation contracted between us. However both of these have begot that <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, that <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> that <hi>Love</hi> to Men's Native Country that has been esteemed, among the Antients, One of the most Noble and Heroick <hi>Vertues,</hi> and of which we have such numerous Instances given in History, and such Egregious Sayings in the <hi>Poets</hi> and <hi>Ora<g ref="char:EOLhyphen"/>tors.</hi>
+            </p>
+            <p>I'll not inlarge by Repeating these, but from hence make an Application to our present purpose.</p>
+            <pb n="28" facs="tcp:207309:15"/>
+            <p> We are here met for the continuance and in<g ref="char:EOLhyphen"/>crease of this most Christian Grace of <hi>Charity</hi> and <hi>Brotherly Love,</hi> of <hi>Kindness</hi> and <hi>mutual Affection</hi> one to another; or, in the Words of my Text, <hi>Among our selves.</hi> 'Tis a Duty we owe unto all, but more especially to the Good; 'Tis a Duty we owe to Good-men, but more particularly to those of our own Country, which is, in some Sence, a sort of Family, which requires our E<g ref="char:EOLhyphen"/>steem by Right of Birth and Breeding.</p>
+            <p>We are (my Country-men) the Natives of a County, inferior to none <hi>for the Clemency of Hea<g ref="char:EOLhyphen"/>ven, and Kindness of the Earth.</hi> The Goodness and and Salubrity of our Air speaks for One, and our pleasant Downs and Plains, our Fertile Fields and Fat Valleys answers for the Other. Our Country in the Production of Honest and Emi<g ref="char:EOLhyphen"/>nent Men, gives Place to none, exceeds many; 'tis our Reputation and Honour that we grew up like Plants in that excellent Field, which gave us our first Breath, and Infant Education. But let me here remark, That for a Person to boast of his Native Honour, and the Glory of his Coun<g ref="char:EOLhyphen"/>try, and those Advantages which Nature has given him, is Sinful as well as Foolish; unless he's so sensible of these things, as by them to be drawn to judge it beneath him to do any thing unwor<g ref="char:EOLhyphen"/>thy of it
+<note place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>. <hi>D. Laerius in vi<g ref="char:EOLhyphen"/>ta</hi> Anst.</note>:As <hi>Menedemus,</hi> the Philosopher, reply<g ref="char:EOLhyphen"/>ed to <hi>Antigonus</hi> when he consulted him, whether he should go to a Riotous Banquet, <hi>Remember</hi> (says he) <hi>that you are the Son of a King.</hi> So let it be
+<pb n="29" facs="tcp:207309:15"/>an Argument unto us when we are tempted to any dishonest and dishonourable Action, let us Re<g ref="char:EOLhyphen"/>member that we are the Children, the Sons of the choicest and loveliest Part of the <hi>Garden of the World,</hi> (I mean <hi>England</hi>) and therefore let us do nothing Unworthy the Place of our Nativity, but, by our Virtuous Lives, prove that 'tis an ex<g ref="char:EOLhyphen"/>cellent Place, that brings forth such honest and excellent Persons.</p>
+            <p>As Excellent Men are a <hi>Reputation</hi> and <hi>Value</hi> to the Place of their Birth; so it's also an Honour and Reputation to a Man to receive his Birth in an excellent Country. And this is not only fa<g ref="char:EOLhyphen"/>miliar among Men to take notice of the Repute or Obscurity of the Place of their Nativity; but also <hi>God Himself</hi> takes Notice of it, and notes down the Birth-Place of his Servants, as a Mark of its Honour,: Thus <hi>Psal.</hi> 87.4, 5, 6. <hi>Behold</hi> Phlistia <hi>and</hi> Tyre, <hi>with</hi> Ethiopia: <hi>This Man was born there. And of</hi> Zion <hi>it shall be said,</hi> This <hi>and</hi> That Man <hi>was Born in her, and the Highest himself shall Establish her. The Lord shall count when he writeth up the People, that</hi> This Man <hi>was Born there,</hi> Selah.</p>
+            <p>Surely it will be an Honour to our Country, if we are Excellent Persons, if we become Saints and the People of God, If we excell in Vertue, Piety, and every Thing that is Praise-worthy; that it shall be said of <hi>Wiltshire</hi> (in the <hi>Psalmist</hi>'s Language) <hi>This and that Man was Born there, and the Highest himself shall Establish it,</hi>
+            </p>
+            <pb n="30" facs="tcp:207309:16"/>
+            <p> In order therefore, to keep up our Native Ho<g ref="char:EOLhyphen"/>nour, let us esteem it as a Blemish to our Coun<g ref="char:EOLhyphen"/>try, as well as to our Religion, to be guilty of vicious or uncharitable Actions. Let us give Proof of our Christianity by being <hi>Kind</hi> and <hi>Benevolent</hi> to all; but for the Honour and Repu<g ref="char:EOLhyphen"/>tation of our Native Soyl, let us, <hi>above all things have fervent Charity among our selves.</hi>
+            </p>
+            <p>This is a Duty so Just and Reasonable, so much for our own Present, as well as for our Future Com<g ref="char:EOLhyphen"/>fort, that we cannot deny it, if we are <hi>Christians,</hi> and are willing to keep up the Reputation of our Country: Were we call'd indeed to hazardous, and unheard-of Attempts,, for our Country's Ho<g ref="char:EOLhyphen"/>nour, and our own Welfare, it might make us boggle, tho the Difficulties would by no Means excuse us. As were we call'd with the Roman
+<note n="*" place="margin">
+                  <hi>Tit. Liv.</hi> Hist. Lib. 7.</note>
+               <hi>Curtius</hi> to precipitate our selves headlong into a devouring <hi>Vortex,</hi> for the Safety of our Country: Or, with the <hi>Athenian</hi>
+               <note n="*" place="margin">
+                  <hi>Justin.</hi> Hist. Lib. 2.</note>
+               <hi>Codrus,</hi> were we to offer our Throat to the Sword of the Enemy, and sacrifice our Life, for the Preservation of our Neighbours: Or were we but, with the Generous <hi>Publicola,</hi> to pull down our Houses, in order to satisfy the Jea<g ref="char:EOLhyphen"/>lous Humours of Suspicious Citizens. These, or such as These, were Matters that might make us Hesitate, Dispute, and Stumble at their Perfor<g ref="char:EOLhyphen"/>mance: But now, when we are requested only to be <hi>Christians,</hi> (which we Profess our selves to be) To be Men of Friendly, Kind, and Good natur'd Dispositions, and Merciful and Charitable Inclina<g ref="char:EOLhyphen"/>tions
+<pb n="31" facs="tcp:207309:16"/>To put off <hi>Wrath, Strife, Debate, Evil Speak<g ref="char:EOLhyphen"/>ing,</hi> and all <hi>Malice;</hi> And to become, by our <hi>Vir<g ref="char:EOLhyphen"/>tue</hi> and <hi>Piety,</hi> Acceptable to <hi>God,</hi> Comfortable to our Selves, and an Honour to our Country. This, I hope, we may (being so Just, so Reasonable, and Religious) be perswaded to.</p>
+            <p>And if You are <hi>(my Country-men)</hi> willing to be such, I am sure, You will, at this Time, give Te<g ref="char:EOLhyphen"/>stimony of Your <hi>Piety,</hi> in practising the Duty, of which I have been Treating of, more particularly as it respects the Poor.</p>
+            <p>It's no shame to us, to acknowledge that we have Poor among us, For tho' the People of <hi>Israel</hi> were the Lord's own Choice, and tho' the Pro<g ref="char:EOLhyphen"/>mises which were made them did chiefly consist in Temporal things; yet the Lord tells 'em <hi>Deut.</hi> 15.4. <hi>That the Poor should never cease out of the Land.</hi> which we cannot apprehend was for any other Cause, than that they might have Objects on which to exercise their <hi>Compassion</hi> and <hi>Charity.</hi>
+            </p>
+            <p>And, in the last Place, that we should chiefly have <hi>Compassion</hi> on those of our own Country, we have the Direction of the Text, and also the Example of St. <hi>Paul</hi> who sought Relief abroad, even as far as <hi>Corinth</hi> and <hi>Galatia,</hi> for the Poor Distressed Saints at <hi>Jerusalem,</hi> who were his own Country-men.</p>
+            <p>It's too long, to urge the Apostles Words joyn<g ref="char:EOLhyphen"/>ing to these of my Text, as a Motive to Charity; (<hi>For Charity shall cover the multitude of Sins,</hi> and <hi>Use Hospitality one to another without Grudging</hi>) I
+<pb n="32" facs="tcp:207309:17"/>trust your Willingness to the Duty will render it needless.</p>
+            <p>Our <hi>Charity</hi> and <hi>Kindness,</hi> I hope, will give Evidence to the Holiness of our Lives, the Good<g ref="char:EOLhyphen"/>ness of our Morals, and become an Ornament to the Place of our Birth: <hi>And that we may thus Live, and thus approve our selves, the Almighty assist us, by his Holy Spirit, through</hi> Jesus Christ <hi>our Lord,</hi> Amen.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
